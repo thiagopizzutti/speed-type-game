@@ -62,4 +62,6 @@ git push origin feature/AmazingFeature
 ## Contact
 
 Thiago Pizzutti - [email](mailto:tpizzutti@gmail.com) - [linkedin](https://www.linkedin.com/in/tpizzutti/)
+Fabricio Polato - [email](mailto:fabriciopolato@gmail.com) - [linkedin](https://www.linkedin.com/in/fabriciopolato/)
+Pedro Siqueira - [email](mailto:pedro.v.siqueira@gmail.com) - [linkedin](https://www.linkedin.com/in/pedrovsiqueira/)
 
