@@ -61,5 +61,5 @@ git push origin feature/AmazingFeature
 <!-- CONTACT -->
 ## Contact
 
-Pedro Siqueira - [email](mailto:pedro.v.siqueira@gmail.com) - [linkedin](https://www.linkedin.com/in/pedrovsiqueira/)
+Thiago Pizzutti - [email](mailto:tpizzutti@gmail.com) - [linkedin](https://www.linkedin.com/in/tpizzutti/)
 
