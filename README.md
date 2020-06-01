@@ -20,7 +20,7 @@ This game was built to practice Javascript and React.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/pedrovsiqueira/speed-typing-game-react
+git clone https://github.com/thiagopizzutti/speed-type-game.git
 ```
 2. Install Yarn packages
 ```sh
@@ -34,7 +34,7 @@ yarn start
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The project is deployed and can be accessed at https://speed-typing-game-react.netlify.app/
+The project is deployed and can be accessed at https://type-really-fast-game.netlify.app/
 
 
 <!-- CONTRIBUTING -->
